@@ -10,4 +10,4 @@ CREATE TABLE message (
 INSERT INTO message (message)
 VALUES
     ("Hello World"),
-    ("v1.1");
+    ("v1.0");
