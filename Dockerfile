@@ -8,4 +8,4 @@ COPY ./init.sql /init.sql
 
 # Startup MySQL and run the queries
 #CMD ["mysqld", "--init-file=/init.sql"]
-CMD "mysqld", "--init-file=/init.sql"
+CMD mysqld --init-file=/init.sql
