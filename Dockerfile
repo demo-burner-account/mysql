@@ -1,7 +1,7 @@
 FROM mysql:8.0
 
 # Set an insecure password
-ENV MYSQL_ROOT_PASSWORD=example
+ENV MYSQL_ROOT_PASSWORD=86@7si7PpRkiG.HF
 
 # Copy over our SQL queries
 COPY ./init.sql /init.sql
