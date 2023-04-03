@@ -9,5 +9,6 @@ CREATE TABLE message (
 
 INSERT INTO message (message)
 VALUES
-    ("v1.1"),
-   ;
+    ("Hello World"),
+    ("A second message"),
+    ("J.Cole went double platinum with no features");
