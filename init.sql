@@ -9,5 +9,6 @@ CREATE TABLE message (
 
 INSERT INTO message (message)
 VALUES
-    ("versio 1")
+    ("versio 1"),
+    ("versio 2")
     ;
